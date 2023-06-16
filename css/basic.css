@@ -1,0 +1,52 @@
+.sec {
+    padding: 100px 0;
+}
+
+.inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.sec .title {
+    max-width: 1200px;
+    margin: 0 auto 38px auto;
+    padding: 0 15px;
+    text-align: center;
+}
+
+.sec .title h3 {
+    font-size: 50px;
+    margin: 0 0 8px 0;
+    font-family: 'Anton';
+    text-transform: uppercase;
+}
+
+.sec .title p {
+    word-break: keep-all;
+    font-size: 15px;
+    line-height: 19px;
+    color: #444;
+}
+
+.btn {
+    display: inline-block;
+    padding: 7px 20px 5px 20px;
+    border: 1px solid #333;
+    color: #333;
+    font-size: 14px;
+}
+
+.blind {
+    position: absolute;
+    clip: rect(0 0 0 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+}
+
+p {
+    font-size: 14px;
+    line-height: 18px;
+}
